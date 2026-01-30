@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&section=header&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&section=footer&fontSize=40" />
 <!--
 **jjuy00/jjuy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
