@@ -54,9 +54,10 @@
 
 <h2 align="center"> solved.ac Activity 🌱 </h3>
 
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjy7244)](https://solved.ac/pjy7244/)
 ![pjy7244 solved.ac grass](http://mazandi.herokuapp.com/api?handle=pjy7244)
-
+</div>
 <div align="center">
   <h2> Contacts ☎️ </h2>
 
