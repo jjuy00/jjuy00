@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&text=JueYeong's%Github!&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&text=JueYeong's%Github!&section=header&fontSize=30" />
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&section=footer" />
 <!--
 **jjuy00/jjuy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
