@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&text=JueYeong's+Github!&section=header&fontSize=40&color=FBE580" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&text=안녕하세요.+프론트엔드+개발자+박주영입니다!&section=header&fontSize=30&color=FBE580" />
 <div align="center">
 
   <h2> Tech Stacks 🛠 </h2>
